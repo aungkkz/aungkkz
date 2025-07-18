@@ -1,4 +1,5 @@
-<h1>Hi, I'm Aung! Cybersecurity| IT | Technology </h1>
+<h1>Hi, I'm Aung!</h1>
+<h1>Cybersecurity| IT | Technology</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
